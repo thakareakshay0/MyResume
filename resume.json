@@ -1,0 +1,65 @@
+{
+  "Professional Summary":[
+   "A result-oriented professional with over 5.5 Year's of experience in application development & enhancement, service,delivery and client relationship management.",
+   "Strong Knowledge on Mobile Application Development (Cross-Platform) using  (Ionic 1 & Ionic 2, Ionic 3), Angular JS  4,5, JQuery , Ajax ,Node JS",
+   "Strong Knowledge on Object Oriented Programming Languages."
+  ],
+ "Past Experience": [
+    "Current Employer Details: From 4th Dec 2017 – Till Date with Virtual Galaxy Infotech Pvt Ltd.",
+    "Ex-Employer Details: From Nov’ 2015 – Nov 2017 with Acequare Softwares.",
+    "Ex-Employer Details: From March 2013 – July 2015 with Uniweb Technocrats Pvt Ltd."
+  ],
+  "TECHNICAL SKILLS":[
+  "Technologies:  Angular JS 5, Angular JS 4,Node JS, HTML 5,CSS3, JQuery, AJAX,",
+  "Web Application: Developing Web Application In Angular js 4,5 and Node js.",
+  "Mobile Application : Developing Cross Platform Mobile application (hybrid Application) in Ionic 3,ionic 2 & Framework7 .",
+  "Other Technologies: MongoDB, MS-SQL Server2012/14."
+  ],
+  "Education": [
+    "B.E in Information Technology with 58.38% from Nagpur University in2011.",
+    "HSC with 66.37% from Maharashtra State Board in 2007",
+    "SSC with 61.86% from Maharashtra State Board in 2005"
+  ],
+  
+  "PROJECTS DETAILS -Web Applications": [
+      
+    "Project Title: VPay Web Application",
+    "Period:  January 2018 to present",
+    "Project Description:  This is Web Application Develop in Angular Js 4, 5 & node Js . This application is Complete payment Merchant System.In this application you can received  payment by  Aadhar Payment,VPA,Payment Gateways and Scanning of QR Code as well as you can Paid your mobile,electric bill from this application.",
+    "Tools & Technology: VS Code,Oracle DB",
+    "Role & Responsibility: Responsible for understanding user requirements, designing and developing the application."
+  ],
+
+  "PROJECTS DETAILS - Mobile Applications":[
+
+    "Project Title: VPAY Mobile App",
+    "Period: January 2018 to  present",
+    "Platform: Android & IOS",
+    "Project Description:  This is Mobile application develop in Ionic 3. This app is Complete Payment Merchant System.",
+    "You can received  payment by  Aadhar Payment,VPA,Payment Gateways and Scanning of QR Code as well as you can Paid your mobile,electric bill from this application.",
+    "Tools & Technology: VS Code, Ionic 3,Typescript, Angular 4,5 .",
+    "Role & Responsibility: Responsible for understanding user requirements, designing and developing the application.",
+  
+    "========================================",  
+
+    "Project Title: ShoeCare",
+    "Period: August  2017  to October 2017",
+    "Platform: Android & IOS",
+    "Project Description:  This is Mobile application develop in Phone Gap and Framework 7. In this Application you can Purchase, Repaires, and Donates your shoes .",
+    "Tools & Technology: VS Code,Framework 7,Jquery, Ajax.",
+    "Role & Responsibility: Responsible for understanding user requirements, designing and developing the application."
+  ],
+ 
+  "PERSONAL DETAILS": [
+    "Father’s Name: Rambhauji Thakare",
+    "Mother’s Name:  Manorama R Thakare",
+    "D.O.B.: 04th April 1990",
+    "Marital: Single",
+    "Languages Known: Marathi, Hindi, English",
+    "Date: ",
+    "Place:Nagpur"
+  ]
+
+ 
+
+}

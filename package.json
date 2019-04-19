@@ -1,0 +1,26 @@
+{
+  "name": "akshay_dev",
+  "version": "1.3.0",
+  "description": "personal and professional detail information  about me ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "resume",
+    "akshay"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thakareakshay0/MyResume.git"
+  },
+  "author": "akshay",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "inquirer": "^6.3.1"
+  },
+  "bin": {
+    "akshay_dev": "./index.js"
+  }
+}
